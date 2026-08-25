@@ -29,7 +29,7 @@
       "short_name": "إضافة",
       "description": "معالجة صور جديدة بالشعار",
       "url": "/",
-      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" }]
     }
   ]
 }
