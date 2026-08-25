@@ -1,0 +1,6 @@
+{
+  "name": "إضافة الشعار المجمعة - Batch Watermark Logo",
+  "description": "تطبيق لإضافة الشعار دفعة واحدة لعدة صور بذكاء مع ضبط تلقائي للموقع حسب أبعاد الصورة 3:4 و 4:3 وغيرها وتنزيل الصور بدقة عالية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
